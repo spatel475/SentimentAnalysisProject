@@ -32,5 +32,7 @@ SahilPatel_Flask:
 - takes input in form of "http://127.0.0.1:5000/sentiment?model={MODEL_OPTION}&text{YOUR_TEXT}" 
   - MODEL_OPTION is "lr", "nb", or "svm" and YOUR_TEXT can be any text/sentence
   - To run locally: http://127.0.0.1:5000/sentiment?model=lr&text=i%20like%20pizza
-  - You can also try: http://spatel475.pythonanywhere.com/sentiment?model=lr&text=i%20like%20pizza
-  - https://sahilpatel-dev.web.app/sentiment communicates with http://spatel475.pythonanywhere.com/sentiment
+  
+You can also try: http://spatel475.pythonanywhere.com/sentiment?model=lr&text=i%20like%20pizza
+
+https://sahilpatel-dev.web.app/sentiment communicates with http://spatel475.pythonanywhere.com/sentiment
